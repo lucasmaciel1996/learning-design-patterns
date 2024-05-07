@@ -1,0 +1,1 @@
+ for i in {1..400}; do echo "$i file text example now">> ./src/Observer/file1.txt; done; 
